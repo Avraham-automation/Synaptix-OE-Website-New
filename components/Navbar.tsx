@@ -42,7 +42,7 @@ const Navbar = () => {
             <img
               src="/logo.png"
               alt="Synaptix Logo"
-              className="h-10 w-auto transition-all duration-300 group-hover:scale-105 group-hover:drop-shadow-[0_0_8px_rgba(255,215,0,0.5)]"
+              className="h-12 w-auto transition-all duration-300 group-hover:scale-105 group-hover:drop-shadow-[0_0_8px_rgba(255,215,0,0.5)]"
             />
             <span className="text-xl font-bold text-synaptix-text tracking-tight group-hover:text-synaptix-gold transition-colors">Synaptix</span>
           </div>
